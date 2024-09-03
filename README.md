@@ -1,3 +1,4 @@
+![logo](https://github.com/AnishThakur22/Anish/blob/main/Untitled%20design%20(1).png)
  # 💫 About Me: Hi, I'm Anish Thakur
 
    <h2>A passionate Data Engineer From Nepal</h2>
