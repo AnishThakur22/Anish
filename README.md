@@ -6,7 +6,7 @@
 
 🔭 I’m currently Pursuing a degree <br>👯 I’m looking to collaborate kumaranish981234567@gmail.com <br>🤝 I’m looking for help with Data Engineering <br>🌱 I’m currently learning<br>💬 Ask me about kumaranish981234567@gmail.com <br>⚡ Fun fact- People say that I am comedian 
 
-## 🌐 Socials::
+## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Anish Thakur)
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Anish Thakur)
