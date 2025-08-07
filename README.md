@@ -13,7 +13,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/the_anish_01)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Anish Thakur)
+[![LinkedIn](linkedin.com/in/anish-kumar-thakur-858909256)](https://linkedin.com/in/Anish Thakur)
 
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@Anish Thakur) 
 
